@@ -41,6 +41,3 @@ def LMII():
 # 可变: list dict set
 # 不可变: str tuple
 # enumerate zip 遍历技巧\n# we can change the world!
-
-for i in range(10):
-    print(i)
