@@ -40,4 +40,6 @@ def LMII():
 # set set()
 # 可变: list dict set
 # 不可变: str tuple
-# enumerate zip 遍历技巧
+# enumerate zip 遍历技巧\n# we can change the world!
+
+ what
