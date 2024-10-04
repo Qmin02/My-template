@@ -42,4 +42,5 @@ def LMII():
 # 不可变: str tuple
 # enumerate zip 遍历技巧\n# we can change the world!
 
- what
+for i in range(10):
+    print(i)
